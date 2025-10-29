@@ -12,9 +12,4 @@ public class decreasing {
       int n=10;
       decreasingnum(n);
     }
-    
-
-   
-
-    
 }

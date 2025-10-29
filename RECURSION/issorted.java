@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class issorted {
     public static boolean check(int arr[],int i){
         if(i==arr.length-1){
@@ -13,3 +15,5 @@ public class issorted {
         System.out.println(check(arr, 0));
     }
 }
+
+
