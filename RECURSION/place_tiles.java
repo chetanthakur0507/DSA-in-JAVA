@@ -1,6 +1,7 @@
 public class place_tiles {
     public static int placetiles(int m,int n){
-
+         
+        //hm
         if(n==m){
             return 2;
         }
