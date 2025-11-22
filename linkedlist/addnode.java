@@ -1,4 +1,4 @@
-import java.util.Collections;
+import java.util.*;
 
 class addnode {
     Node head;

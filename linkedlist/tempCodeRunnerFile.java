@@ -1,1 +1,1 @@
- list.addFirst("a");
+i
