@@ -50,6 +50,7 @@ public class add_remove {
 
 
     }
+    //full
 
     public static void main(String[] args){
         Queue q=new Queue(5);
