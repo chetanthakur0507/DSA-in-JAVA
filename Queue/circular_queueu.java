@@ -78,7 +78,5 @@ public class circular_queueu {
             System.out.println(q.peek());
             q.remove();
         }
-
-
     }
 }

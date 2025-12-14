@@ -13,8 +13,6 @@ public class using_collectionframework {
         while(!q.isEmpty()){
             System.out.println(q.peek());
             q.remove();
-        }
-            
-        
+        }  
     }
 }
