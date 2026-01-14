@@ -9,14 +9,10 @@ public class duplicate_element {
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] != arr[uniqueIndex]) {
                 uniqueIndex++;
-                arr[uniqueIndex] = arr[i];
-                
+                arr[uniqueIndex] = arr[i];        
             }
-            
-            
         }
         return uniqueIndex+1;
-          
     }
          
     
