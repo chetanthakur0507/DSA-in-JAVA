@@ -3,6 +3,7 @@ import java.util.*;
 public class collection_framework {
     public static void main(String[] args){
         LinkedList<String> list=new LinkedList<>();
+        
  
         //add the element in the starting of the list
         list.addFirst("a");
