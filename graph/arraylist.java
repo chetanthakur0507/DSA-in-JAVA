@@ -28,7 +28,7 @@ public class arraylist {
     }
 
     public static void main(String[] args){
-        int V=9;
+        int V=5;
         ArrayList<Edge> graph[]=new ArrayList[V];
     }
 }
